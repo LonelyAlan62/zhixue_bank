@@ -1,2 +1,3 @@
 # zhixue_bank
-zhixue.com排名计算工具
+智学网排名计算工具
+
